@@ -1,8 +1,8 @@
 # first-six-weeks
 
-# Setup
+## Setup
 
-## Setup python
+### Setup python
 
 ```bash
 #
@@ -17,7 +17,7 @@ python3 -m venv .venv
 echo ".venv" > .gitignore
 ```
 
-## Setup mkdocs
+### Setup mkdocs
 
 ```bash
 #
@@ -32,4 +32,8 @@ pip install mkdocs-material
 mkdocs new .
 ```
 
+### Publish site
 
+```bash
+mkdocs gh-deploy --force
+```

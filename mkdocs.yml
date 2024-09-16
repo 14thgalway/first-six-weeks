@@ -1,1 +1,4 @@
-site_name: My Docs
+site_name: First Six Weeks
+site_url: https://14thgalway.github.io/first-six-weeks
+theme:
+  name: material
