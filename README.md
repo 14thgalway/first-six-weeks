@@ -34,7 +34,7 @@ mkdocs new .
 #
 # Save settings
 #
-pipe freeze > requirements.txt
+pip freeze > requirements.txt
 ```
 
 ### Publish site
