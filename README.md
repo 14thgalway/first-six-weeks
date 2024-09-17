@@ -26,10 +26,15 @@ echo ".venv" > .gitignore
 . .venv/bin/activate
 
 #
-# Install mkdocs
+# Install mkdocs and generate initial site
 #
 pip install mkdocs-material
 mkdocs new .
+
+#
+# Save settings
+#
+pipe freeze > requirements.txt
 ```
 
 ### Publish site
