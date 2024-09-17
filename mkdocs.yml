@@ -2,3 +2,10 @@ site_name: First Six Weeks
 site_url: https://14thgalway.github.io/first-six-weeks
 theme:
   name: material
+nav:
+  - Home: index.md
+  - Beavers:
+    - Week 1: beavers/week1.md
+  - Cubs:
+    - Week 1: cubs/week1.md
+  - About: about.md

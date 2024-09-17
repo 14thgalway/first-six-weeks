@@ -1,17 +1,28 @@
-# Welcome to MkDocs
+# Welcome to the 14th Galway programme site
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+## Beaver section
 
-## Commands
+The beaver section is going to focus on the following areas:
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+1. Fox lodge and spices
+1. Opening ceremony for beaver scouts
+1. Lodges and lodge leaders
+1. Map, handbook and memory bag
+1. Creating of a code of conduct for beaver colony
+1. Plan, Do, Review (Log chews)
 
-## Project layout
+## Cub section
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+The cub section is going to focus on the following areas:
+
+1. Say goodbye to the cubs scouts moving up to scouts
+1. Welcoming new cubs scouts
+1. Making sixes
+1. Making a code of conduct for the cub pack
+1. Exploring the spices
+1. Running lots of fun games
+
+## References:
+
+* [Beaver Scouts first 6 weeks](https://www.irelandscouts.ie/wp-content/uploads/2022/12/Beaver-Scouts-First-6-Weeks.pdf)
+* [Cub Scouts first 6 weeks](https://www.irelandscouts.ie/wp-content/uploads/2022/12/Cub-Scouts-First-6-Weeks.pdf)
