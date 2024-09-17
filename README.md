@@ -13,8 +13,8 @@ sudo apt install python3.11-venv
 #
 # Setup virtual environment
 #
-python3 -m venv .venv
-echo ".venv" >> .gitignore
+python3 -m venv venv
+echo "venv" >> .gitignore
 echo "site" >> .gitignore
 ```
 
@@ -24,7 +24,7 @@ echo "site" >> .gitignore
 #
 # Activate virtual environment
 #
-. .venv/bin/activate
+. venv/bin/activate
 
 #
 # Install mkdocs and generate initial site
