@@ -14,7 +14,8 @@ sudo apt install python3.11-venv
 # Setup virtual environment
 #
 python3 -m venv .venv
-echo ".venv" > .gitignore
+echo ".venv" >> .gitignore
+echo "site" >> .gitignore
 ```
 
 ### Setup mkdocs
