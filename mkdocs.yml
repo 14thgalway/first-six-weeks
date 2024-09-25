@@ -6,6 +6,8 @@ nav:
   - Home: index.md
   - Beavers:
     - Week 1: beavers/week1.md
+    - Week 2: beavers/week2.md
   - Cubs:
     - Week 1: cubs/week1.md
+    - Week 2: cubs/week2.md
   - About: about.md
