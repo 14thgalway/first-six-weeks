@@ -5,13 +5,14 @@
 
 ## Meeting outline
 
-1. Form up into a colony (all the beavers in a circle around the scouter in charge) and recite the promise (See below)
+1. Form up into sixes (Each "six" in a line. Sixer at the front, Seconder at the back. New cubs can form their own temporary "six")
+1. Duty sixer recites the promise
+1. Scouter in charge welcomes the new cubs and annouces that it'll be the last cub meeting for older cubs in attendance
 1. Game 1
-1. Everyone sits down in the circle for a "log chew". News of the week and talk about upcoming events
 1. Activity 1
-1. Game 2 (normally a learning game)
-1. Game 3 (optional)
-1. Closing ceremony
+1. Game 2
+1. Activity 2
+1. Horse shoe and cub howl
 
 ## Equipment needed
 
