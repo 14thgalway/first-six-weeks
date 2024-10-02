@@ -15,7 +15,8 @@
 
 ## Equipment needed
 
-* Balls in the hall for game 1
+* Paper + pen for pirate map
+* 4 paper + pens to record the members of each six
 
 ## Meeting details
 
@@ -31,23 +32,45 @@ to love the world, and
 to love one another.
 ```
 
-### Game 1: Fox and hound
+### Game 1: Simon says
 
 A nice high energy game to get them started
 
-* Divide the beavers into two teams. Use the "Tallest to smallest" technique to form two evenly matched teams
-* One team is declared to be hounds and the other are foxes
-* Foxes wear a "tail" which is a kneckerchief or tee towel hanging from the back of the belt
-* Foxes become "hounds" if they lose their tail
-* When there are no more "foxes" swap over
+* The game leader calls issues commands to everyone leading with the phrase "Simon says"
+* Everyone does the action called out. Examples: Touch the wall, scrub the floor, run in place
+* If the game leader issues a command without the phrase "Simon says" the beavers/cubs are out
+* Continue until this is one or two winning beavers/cubs
+* Repeat a number of times
 
-### Activity 1: Law and promise
+### Activity 1: Small group system
 
-* Brian has details. Update this later
+Small groups in Beavers are called "lodges". Purpose of this session is to divide the beavers into their initial groups
 
-### Game 2: Law and promise 
+Get beavers to form a line "tallest to smallest". Number off in 4's and then send each group to 4 corners of the room.
+(This mechanism ensures there is an approx mix of older and younger cubs).
 
-* Brian has details. Update this later
+Assign an adult to each corner and record the members of each lodge (We need to update OSM). Discuss with each lodge that
+the group will have a lodge leader appointed in two weeks. Get the beavers to agree who should be the lodge leader for tonight
+
+Assign the following colours as the name of the lodges
+
+1. Blue
+1. Red
+1. Green
+1. Yellow
+
+Later we'll issue small trianges of felt to be put on their uniforms
+
+### Game 2: Don't wake the pirate
+
+* Choose one person to be the pirate. They should sit in the middle of the space. Everyone else should sit in circle around the pirate.
+* Put a piece of paper behind the pirate. This is the pirate’s map. The pirate should close their eyes and pretend to go to sleep.
+* Now choose a player in the circle to get the map. They should point to a player without making any noise.
+* The player who was chosen to get the map should silently get up, get the map and sneak back to their place.
+* Meanwhile, the pirate should listen out for any noise. If they think they hear the player moving to get their map, they should point to where they think the player is and open their eyes.
+* If the player is there, they should run away. They should run around the outside of circle once and then aim to sit back down in their place. The pirate should chase them and try to catch them – they have to run around the circle once too.
+* If the player gets the map without being caught, they’re the winner.
+* Everyone should play again. Keep playing, but aim to swap the pirate every two or three turns (or whenever someone gets caught!). Ideally, everyone should have a turn at trying to get the map.
 
 ### Game 3: Optional 
 
