@@ -1,27 +1,5 @@
 # Welcome to the 14th Galway programme site
 
-## Beaver section
-
-The beaver section is going to focus on the following areas:
-
-1. Fox lodge and spices
-1. Opening ceremony for beaver scouts
-1. Lodges and lodge leaders
-1. Map, handbook and memory bag
-1. Creating of a code of conduct for beaver colony
-1. Plan, Do, Review (Log chews)
-
-## Cub section
-
-The cub section is going to focus on the following areas:
-
-1. Say goodbye to the cubs scouts moving up to scouts
-1. Welcoming new cubs scouts
-1. Making sixes
-1. Making a code of conduct for the cub pack
-1. Exploring the spices
-1. Running lots of fun games
-
 ## References:
 
 * [Beaver Scouts first 6 weeks](https://www.irelandscouts.ie/wp-content/uploads/2022/12/Beaver-Scouts-First-6-Weeks.pdf)
