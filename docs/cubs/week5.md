@@ -1,53 +1,104 @@
 
 ## Theme(s)
 
-* Exploring the spices
+* Code of conduct
 
 ## Meeting outline
 
-1. Form up into sixes (Each "six" in a line. Sixer at the front, Seconder at the back. New cubs can form their own temporary "six")
+1. Form up into sixes (Each "six" in a line. Sixer at the front, Seconder at the back)
 1. Duty sixer recites the promise
-1. Scouter in charge welcomes the new cubs and annouces that it'll be the last cub meeting for older cubs in attendance
+1. Scouter in charge welcomes the new cubs and introduces the theme of the meeting
 1. Game 1
 1. Activity 1
 1. Game 2
-1. Activity 2
+1. Scouter huddle (during game 2)
 1. Horse shoe and cub howl
 
 ## Equipment needed
 
-* Balls in the hall for game 1
+* Sheets of A3 paper for Code of Conduct. One per six 
+* Selection of pens for each six to record code of conduct 
+* News paper for Game 1 "Snowballs"
 
 ## Meeting details
 
 ### Opening ceremony
 
-Beaver promise
+Scout promise
 
 ```
-Beaver Scouts Promise:
+On my honour,
 I promise to do my best,
-to be a good Beaver Scout,
-to love the world, and
-to love one another.
+To uphold my Scouting principals,
+To serve my community,
+To help other people
+And to keep the (cub) scout law
 ```
 
-### Game 1: Fox and hound
+### Game 1: Snowballs
 
-A nice high energy game to get them started
+* This game is played in 4 sixes. 
+* Each six gets a quadrant of the hall to defend.
+* Each six gets a collection (10?) of rolled up newspaper, which we call a "snowball"
+* The cubs will throw their snowballs into the other three quadrants. The objective is to have the least number of snowballs when the Scouter in charge shouts "stop".
+* Continue for a number of rounds. Finish before cubs get tired
 
-* Divide the beavers into two teams. Use the "Tallest to smallest" technique to form two evenly matched teams
-* One team is declared to be hounds and the other are foxes
-* Foxes wear a "tail" which is a kneckerchief or tee towel hanging from the back of the belt
-* Foxes become "hounds" if they lose their tail
-* When there are no more "foxes" swap over
+### Activity 1: Code of Conduct
 
-### Activity 1: Law and promise
+Part 1:
 
-* Brian has details. Update this later
+* Form cubs in a circle and review the Scout law
 
-### Game 2: Law and promise 
+```
+Cub Scouts ...
+‍Are Friendly,
+Are Kind,
+Are Honest, they always tell the truth.
+Can be Trusted, they always keep their word.
+```
 
-* Brian has details. Update this later
+Part 2:
+
+* Send the sixes into their corners and summon sixers to the middle of the room
+* Give each sixer an A3 sheet of paper and a pen
+* Each six are tasked with writing down the rules they want for their cub pack. 
+* Keep the language positive.
+* A Scouter helps each six  
+
+SAMPLE CODE OF CONDUCT
+
+```
+We do our best
+We help others
+We do not Bully
+We wear the Cub Scout uniform with pride
+We are punctual for meetings and events
+We do not to use bad language or bad manners
+We listen to others
+We respect other people
+We Leave No Trace
+WE HAVE FUN
+```
+
+Part 3
+
+* Call all the sixes back to the center of the room in a circle
+* Review what each six has written down and consolidate the list into a single list
+* Discuss with cubs and make sure this is the code of conduct they want to live to
+
+### Game 2: ??? 
+
+* To be decided on the night
+
+### Scouter huddle (Decide on who Sixers will be)
+
+* The Scouters need to make a decision on who will be appointed as sixers.
+* The result should be announced at the end of the meeting in horseshoe
+
+
+### Horseshoe Announcements
+
+* Tell the cubs about the upcoming Halloween event. An email to be sent to parents this week
+
 
 
