@@ -7,8 +7,9 @@
 * [Week 3 (30/9)  - Meeting](beavers/week3.md)
 * [Week 4 (9+10/10) - Event](beavers/week4.md)
 * [Week 5 (14/10) - Meeting](beavers/week5.md)
-* [Week 6 (30/10) - Event](beavers/week6.md)
-* [Week 7 (28/10) - Meeting](beavers/week7.md)
+* [Week 6 (21/10) - Meeting](beavers/week6.md)
+* [Week 7 (30/10) - Event](beavers/week7.md)
+* Week 8 (4/11) - Adult planning 
 
 
 ## Cubs
@@ -18,8 +19,9 @@
 * [Week 3 (30/9)  - Meeting](cubs/week3.md)
 * [Week 4 (9+10/10) - Event](cubs/week4.md)
 * [Week 5 (14/10) - Meeting](cubs/week5.md)
-* [Week 6 (30/10) - Event](cubs/week6.md)
-* [Week 7 (28/10) - Meeting](cubs/week7.md)
+* [Week 6 (21/10) - Meeting](cubs/week6.md)
+* [Week 7 (30/10) - Event](cubs/week7.md)
+* Week 8 (4/11) - Adult planning 
 
 ## References:
 

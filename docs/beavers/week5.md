@@ -1,7 +1,7 @@
 
 ## Theme(s)
 
-* Exploring the spices
+* Code of conduct
 
 ## Meeting outline
 
@@ -14,8 +14,6 @@
 1. Closing ceremony
 
 ## Equipment needed
-
-* Balls in the hall for game 1
 
 ## Meeting details
 
@@ -31,22 +29,26 @@ to love the world, and
 to love one another.
 ```
 
-### Game 1: Fox and hound
+### Activity 1: Code of Conduct
 
-A nice high energy game to get them started
+Part 1:
 
-* Divide the beavers into two teams. Use the "Tallest to smallest" technique to form two evenly matched teams
-* One team is declared to be hounds and the other are foxes
-* Foxes wear a "tail" which is a kneckerchief or tee towel hanging from the back of the belt
-* Foxes become "hounds" if they lose their tail
-* When there are no more "foxes" swap over
+* Form beavers in a circle and review the Beaver law
 
-### Activity 1: Law and promise
+```
+Beaver Scouts ...
+‍Are Friendly, always say please and thank you
+Are Kind,
+```
 
-* Brian has details. Update this later
+Part 2:
 
-### Game 2: Law and promise 
+* Send the beavers into their lodges with an adult to review the rules the beavers want for their colony
+* Keep the language positive.
+* A Scouter helps each six  
 
-* Brian has details. Update this later
+Part 3
 
-
+* Call all the lodges back to the center of the room in a circle
+* Review what each lodge has written down and consolidate the list into a single list
+* Discuss with beavers and make sure this is the code of conduct they want to live to
