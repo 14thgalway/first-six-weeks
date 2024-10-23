@@ -9,7 +9,7 @@
 * [Week 5 (14/10) - Meeting](beavers/week5.md)
 * [Week 6 (21/10) - Meeting](beavers/week6.md)
 * [Week 7 (30/10) - Event](beavers/week7.md)
-* Week 8 (4/11) - Adult planning 
+* Week 8 (4/11) - No Youth metting. Adult planning 
 
 
 ## Cubs
@@ -21,7 +21,7 @@
 * [Week 5 (14/10) - Meeting](cubs/week5.md)
 * [Week 6 (21/10) - Meeting](cubs/week6.md)
 * [Week 7 (30/10) - Event](cubs/week7.md)
-* Week 8 (4/11) - Adult planning 
+* Week 8 (4/11) - No Youth metting. Adult planning 
 
 ## References:
 
