@@ -15,7 +15,7 @@
 
 ## Equipment needed
 
-* Balls in the hall for game 1
+* Programme materials beavers. Specifically the idea cards for driving a discussion amoungst beavers
 
 ## Meeting details
 
@@ -31,22 +31,18 @@ to love the world, and
 to love one another.
 ```
 
-### Game 1: Fox and hound
+### Activity 1: Youth planning
 
-A nice high energy game to get them started
+* Form up the colony into a circle and explain that the beavers are going to get an opportunity to decide what events the beavers will take part in
+* Send each Lodge to their corners with an adult to assist.
 
-* Divide the beavers into two teams. Use the "Tallest to smallest" technique to form two evenly matched teams
-* One team is declared to be hounds and the other are foxes
-* Foxes wear a "tail" which is a kneckerchief or tee towel hanging from the back of the belt
-* Foxes become "hounds" if they lose their tail
-* When there are no more "foxes" swap over
+Ideas:
 
-### Activity 1: Law and promise
+* Carol singing
+* Night hike
+* Christmas party
 
-* Brian has details. Update this later
+Consolidate the ideas
 
-### Game 2: Law and promise 
-
-* Brian has details. Update this later
-
-
+* Gather the youth members into a circle and get each lodge to report back via their Scouter
+* Appoint a Scouter to make notes to be used for later adult planning
